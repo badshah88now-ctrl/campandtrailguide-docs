@@ -1,0 +1,5 @@
+site_name: CampAndTrailGuide Docs
+site_url: https://campandtrailguide.com/
+nav:
+  - Home: index.md
+theme: readthedocs
