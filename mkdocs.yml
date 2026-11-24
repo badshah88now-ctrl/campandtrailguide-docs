@@ -2,4 +2,5 @@ site_name: CampAndTrailGuide Docs
 site_url: https://campandtrailguide.com/
 nav:
   - Home: index.md
+  - Camping in Virginia: virginia-camping.md
 theme: readthedocs
